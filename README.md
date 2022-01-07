@@ -11,6 +11,7 @@
 
 # 2. MARCO TEÓRICO
 
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBN/Diagrama%20en%20blanco%20(8).png)
 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
