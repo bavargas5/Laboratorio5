@@ -124,3 +124,8 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 
 # 7. BIBLIOGRAFÍA
 
+-C. (2021, 17 diciembre). Teorema de Thevenin – Análisis de circuitos eléctricos. dademuchconnection. https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+
+-Áreatecnología. (s. f.). Teorema de Thevenin y de Norton Para Resolver Circuitos Aprende Facil. https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
+
+
