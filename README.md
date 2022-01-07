@@ -116,7 +116,7 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 
 # 6. CONCLUSIONES
 
--
+-Se visualizo
 -
 -
 
