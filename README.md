@@ -122,8 +122,8 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 
 -Se visualizo que mediante el uso de el teorema de  THÉVENIN Y NORTON el circuito que se encontraba en la guía del laboratorio que se observaba complejo se logró simplificar y así se convirtió en un circuito equivalente mucho más simple
 
-
--
+- Tal y como hemos podido comprobar al utilizar el teorema de superposición que es un teorema anteriormente aprendido entre otras cosas, se pudo comparar con el circuito simplificado que se obtuvo por el teorema de THÉVENIN
+- 
 -
 
 
