@@ -4,9 +4,12 @@
 
 **General**
 
+Analizar los circuitos mediante el uso de teoremas de THÉVENIN Y NORTON para poder simplificar circuitos complejos 
+
 
 
 **Específicos**
+
 
 
 # 2. MARCO TEÓRICO
@@ -80,15 +83,15 @@ Quitar la resistencia R5 y utilizar el teorema de superposición para calcular e
 
 - Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
-![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/d1.png)
+
 
 - Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
-![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/d2.png)
+
 
 - Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
-![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/d3.png)
+
 
 - Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
@@ -117,7 +120,9 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 
 # 6. CONCLUSIONES
 
--Se visualizo
+-Se visualizo que mediante el uso de el teorema de  THÉVENIN Y NORTON el circuito que se encontraba en la guía del laboratorio que se observaba complejo se logró simplificar y así se convirtió en un circuito equivalente mucho más simple
+
+
 -
 -
 
