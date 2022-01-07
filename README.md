@@ -21,10 +21,59 @@
 
 **Circuito analizado**
 
-
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/2.png)
 
 **PROCEDIMIENTO**
 
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/3.png)
+
+**Calcular el voltaje y la corriente en R5, para ello se utiliza el teorema de superposición**
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/4.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/5.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/6.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/7.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/8.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/9.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/10.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/11.png)
+
+**VOLTAJE DE THÉVENIN**
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/12.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/13.png)
+
+Quitar la resistencia R5 y utilizar el teorema de superposición para calcular el voltaje en el circuito abierto:
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/14.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/15.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/16.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/17.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/18.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/19.png)
+
+**RESISTENCIA DE THÉVENIN** 
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/20.png)
+
+**DIAGRAMA DEL CIRCUITO EQUIVALENTE DE THÉVENIN**
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/21.png)
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBV/22.png)
 
 **SIMULACIÓN EN TINKERCAD**
 
