@@ -125,7 +125,7 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 - Tal y como hemos podido comprobar al utilizar el teorema de superposición que es un teorema anteriormente aprendido entre otras cosas, se pudo comparar con el circuito simplificado que se obtuvo por el teorema de THÉVENIN
 
 
--Es importante aclarar que  al usar el teorema de  THÉVENIN  nos facilita el calculo de voltajes y corrientes en un circuito
+- Es importante aclarar que  al usar el teorema de  THÉVENIN  nos facilita el calculo de voltajes y corrientes en un circuito
 
 # 7. BIBLIOGRAFÍA
 
