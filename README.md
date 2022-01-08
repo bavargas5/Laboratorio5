@@ -95,9 +95,7 @@ Quitar la resistencia R5 y utilizar el teorema de superposición para calcular e
 
 - Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-
-
-
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMG%20TH/S_1.JPG)
 
 **RECOPILACIÓN DE DATOS**
 
