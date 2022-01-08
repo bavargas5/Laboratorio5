@@ -101,11 +101,11 @@ Quitar la resistencia R5 y utilizar el teorema de superposición para calcular e
 
 **Tabla 5.1. Valores del Circuito Equivalente de Thévenin**
 
-
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMG%20TH/T_1.JPG)
 
 **Tabla 5.2. Comprobación del Teorema de Thévenin.**
 
-
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMG%20TH/T_2.JPG)
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
