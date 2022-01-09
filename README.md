@@ -4,17 +4,17 @@
 
 **General**
 
-Analizar los circuitos mediante el uso del teorema de THÉVENIN  para poder simplificar circuitos complejos 
+-Analizar los circuitos mediante el uso del teorema de THÉVENIN  para poder simplificar circuitos complejos 
 
 
 
 **Específicos**
 
-Emplear los conocimientos anteriormente vistos para el analisis de los circuitos
+-Emplear los conocimientos anteriormente vistos para el analisis de los circuitos
 
-Interpretar los datos y diagramas presentesn en el circuito
+-Interpretar los datos y diagramas presentesn en el circuito
 
-Construir el circuito en tinkercad para mejorar nuestro analisis 
+-Construir el circuito en tinkercad para mejorar nuestro analisis 
 
 
 
@@ -140,7 +140,7 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 
 |CIRCUITO EQUIVALENTE TH | CALCULADO | MEDIDO | % ERROR|
 | ------------- | ------------- | ------------- | ------------- |
-| V | 3.92v | 3.89 V| 0 % |
+| V | 3.92v | 3.89 V| 0.76 % |
 | I | 3.92 mA | 3.89 mA | 0.76 % |
 
 
