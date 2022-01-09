@@ -10,6 +10,12 @@ Analizar los circuitos mediante el uso del teorema de THÉVENIN  para poder simp
 
 **Específicos**
 
+Emplear los conocimientos anteriormente vistos para el analisis de los circuitos
+
+Interpretar los datos y diagramas presentesn en el circuito
+
+Construir el circuito en tinkercad para mejorar nuestro analisis 
+
 
 
 # 2. MARCO TEÓRICO
