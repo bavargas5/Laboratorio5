@@ -134,7 +134,7 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 
 |CIRCUITO ORIGINAL | CALCULADO | MEDIDO | % ERROR|
 | ------------- | ------------- | ------------- | ------------- |
-| V | 3.88v | 3.89 V| 0 % |
+| V | 3.88v | 3.89 V| 0.25 % |
 | I | 3.88 mA | 3.89 mA | 0.25 % |
 
 
