@@ -118,6 +118,32 @@ Quitar la resistencia R5 y utilizar el teorema de superposición para calcular e
 
 Los porcentajes de error son muy bajos ya que los simuladores trabajan con sistemas ideales
 
+
+![](https://github.com/bavargas5/Laboratorio5/blob/main/IMGBN/Captura.PNG)
+
+**Valores del Circuito Equivalente de Thévenin**
+
+| | CALCULADO | MEDIDO | % ERROR|
+| ------------- | ------------- | ------------- | ------------- |
+| V_TH | 5.06v | 5.06 | 0 % |
+| R_TH | 289.86 ohm | 289 ohm | 0.29 % |
+
+
+**Comprobación del Teorema de Thévenin.**
+
+
+|CIRCUITO ORIGINAL | CALCULADO | MEDIDO | % ERROR|
+| ------------- | ------------- | ------------- | ------------- |
+| V | 3.88v | 3.89 V| 0 % |
+| I | 3.88 mA | 3.89 mA | 0.25 % |
+
+
+|CIRCUITO EQUIVALENTE TH | CALCULADO | MEDIDO | % ERROR|
+| ------------- | ------------- | ------------- | ------------- |
+| V | 3.92v | 3.89 V| 0 % |
+| I | 3.92 mA | 3.89 mA | 0.76 % |
+
+
 # 5. VIDEO
 
 
