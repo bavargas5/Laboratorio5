@@ -146,7 +146,7 @@ Los porcentajes de error son muy bajos ya que los simuladores trabajan con siste
 
 # 5. VIDEO
 
-
+https://youtu.be/8_-BWMHUKZw
 
 # 6. CONCLUSIONES
 
